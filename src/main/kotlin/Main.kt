@@ -1,7 +1,6 @@
-fun main(args: Array<String>) {
+fun main() {
+    //Ponto de entrada de um programa, Função principal do programa.
     println("Hello World!")
 
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
-    println("Program arguments: ${args.joinToString()}")
+
 }
